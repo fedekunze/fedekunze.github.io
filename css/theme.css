@@ -1196,6 +1196,7 @@ nav .container {
   }
   .image-with-text .vertical-align {
     top: 0px;
+    height: 800px;
     -webkit-transform: translateY(0px);
     -ms-transform: translateY(0px);
     transform: translateY(0px);
