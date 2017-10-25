@@ -250,11 +250,6 @@ nav {
 .text-white {
   color: #fff;
 }
-
-.no-decoration {
-  text-decoration: none;
-}
-
 body {
   font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-smoothing: antialiased;
@@ -366,11 +361,11 @@ h1 a,
 span a,
 p a,
 .text-link a {
-  font-weight: 500;
+  font-weight: 600;
   color: #fff;
   display: inline-block;
-  border-bottom: 1px solid #fff;
-  padding-bottom: 2px;
+  border-bottom: 4px solid #fff;
+  padding-bottom: 6px;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -1178,7 +1173,7 @@ nav .container {
 .image-with-text {
   overflow: hidden;
   position: relative;
-  height: 800px;
+  height: 70px;
 }
 .image-with-text h1 {
   margin-bottom: 24px;
