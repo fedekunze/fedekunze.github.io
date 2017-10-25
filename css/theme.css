@@ -1178,7 +1178,7 @@ nav .container {
 .image-with-text {
   overflow: hidden;
   position: relative;
-  height: 800px;
+  height: 700px;
 }
 .image-with-text h1 {
   margin-bottom: 24px;
@@ -1187,7 +1187,7 @@ nav .container {
   padding: 0px;
   position: absolute;
   top: 0px;
-  height: 100%;
+  height: 85%;
 }
 @media all and (max-width: 767px) {
   .image-with-text {
